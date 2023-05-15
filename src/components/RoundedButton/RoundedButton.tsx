@@ -30,7 +30,7 @@ const styles = StyleSheet.create({
     borderRadius: 10,
   },
   textButton: {
-    color: MyColors.Oxford_blue,
+    color: MyColors.White,
     fontSize: 20,
     fontWeight: 'bold',
     textAlign: 'center',

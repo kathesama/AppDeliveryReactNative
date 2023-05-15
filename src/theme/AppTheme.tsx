@@ -1,10 +1,13 @@
-import {RequiredImage} from "../utils/utils";
-
 export enum MyImages {
-  chef = require(RequiredImage.chef),
-  logoLandingPage = require(RequiredImage.logoLandingPage),
-  email = require(RequiredImage.email),
-  password = require(RequiredImage.password),
+  chef = require('../../assets/chef.jpg'),
+  logoLandingPage = require('../../assets/logo.png'),
+  email = require('../../assets/email.png'),
+  password = require('../../assets/password.png'),
+  confirmPassword = require('../../assets/confirm_password.png'),
+  user = require('../../assets/user.png'),
+  userBlankContent = require('../../assets/my_user.png'),
+  selectImage = require('../../assets/user_image.png'),
+  phone = require('../../assets/phone.png'),
 }
 
 export enum MyColors {
