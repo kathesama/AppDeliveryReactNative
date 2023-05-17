@@ -1,0 +1,1 @@
+Aquí se coloca todo lo relacionado a las vistas o views, componentes, estilos
